@@ -1,5 +1,5 @@
 # Into the Breach Color Palette Editor 
-Welcome to the Into the Breach Color Palette Editor! Here's some quick instructions on how to use this tool. \
+Welcome to the Into the Breach Color Palette Editor! Here's some quick instructions on how to use this tool.
 
 *Author:* NamesAreHard 
 
