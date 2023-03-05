@@ -1,0 +1,6 @@
+Version 1.0.0:
+Initial Release
+Version 1.0.1:
+Saving now also saves an image of the mech with the corresponding color palette, based on the file name given in SAVE_FILE_NAME, with an _ followed by a number to prevent overidding. You may set this variable to False without quotes, and the image will not be saved. 
+The README has been editied to add the above information. 
+Example outputs and saved files are provided

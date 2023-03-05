@@ -1,0 +1,33 @@
+EXAMPLE OUTPUT STARTS HERE, you may delete this once familiar			
+						Notes:
+Wed Jul 27 17:59:41 2022			Time 
+
+Lua Code:					Lua Code Starts
+
+"PlateHighlight" = {35, 248, 255},		LUA
+"PlateLight" = {221, 188, 65},			LUA
+"PlateMid" = {159, 128, 62},			LUA
+"PlateDark" = {74, 64, 53},			LUA
+"PlateOutline" = {15, 22, 16},			LUA
+"PlateShadow" = {69, 74, 57},			LUA
+"BodyColor" = {109, 109, 94},			LUA
+"BodyHighlight" = {152, 153, 131},		LUA
+
+End Lua Code					Lua Code Ends
+Python Code:					Python Code Starts
+
+"PlateHighlight": (35, 248, 255),		PYTHON
+"PlateLight": (221, 188, 65),			PYTHON
+"PlateMid": (159, 128, 62),			PYTHON
+"PlateDark": (74, 64, 53),			PYTHON
+"PlateOutline": (15, 22, 16),			PYTHON
+"PlateShadow": (69, 74, 57),			PYTHON
+"BodyColor": (109, 109, 94),			PYTHON
+"BodyHighlight": (152, 153, 131),		PYTHON
+
+End Python Code					Python Code Ends
+Saving Image...					Image starts to save
+Image Saved Named: saved\Example_0.png		Image saves with the given name
+
+EXAMPLE OUTPUT ENDS HERE
+
